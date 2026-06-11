@@ -1,7 +1,0 @@
-streamlit
-langchain
-langchain-core
-langchain-groq
-langfuse
-pydantic
-python-dotenv
